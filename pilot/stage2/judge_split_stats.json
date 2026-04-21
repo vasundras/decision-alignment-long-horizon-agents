@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "haiku_model": "claude-haiku-4-5-20251001",
+    "sonnet_model": "claude-sonnet-4-6",
+    "n_rows": 150,
+    "note": "Re-judged on stored rationale_preview (~220 chars)."
+  },
+  "rcs": {
+    "n": 150,
+    "mean_haiku": 0.24,
+    "mean_sonnet": 0.153,
+    "mean_abs_diff": 0.131,
+    "sign_agreement_at_half": 0.867,
+    "pearson_r": 0.547
+  },
+  "crr": {
+    "n": 150,
+    "mean_haiku": 0.407,
+    "mean_sonnet": 0.387,
+    "mean_abs_diff": 0.02,
+    "sign_agreement_at_half": 0.98,
+    "pearson_r": 0.959
+  },
+  "summ_vs_retr_pairwise_moderate": {
+    "RCS": {
+      "n_pairs": 10,
+      "haiku_mean_delta": 0.25,
+      "sonnet_mean_delta": 0.133,
+      "sign_agree_fraction": 0.8
+    },
+    "CRR": {
+      "n_pairs": 10,
+      "haiku_mean_delta": 0.0,
+      "sonnet_mean_delta": 0.0,
+      "sign_agree_fraction": 1.0
+    }
+  }
+}
