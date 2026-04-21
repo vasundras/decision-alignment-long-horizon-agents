@@ -94,7 +94,7 @@ Each script reads `cases.py` (or `cases_large.py` for the budget sweep), runs th
 If you use this harness, please cite the accompanying paper:
 
 ```
-Sundararaj, V. (2026). Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents.
+Srinivasan, V. (2026). Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents.
 ```
 
 (arXiv identifier to be added once posted.)
