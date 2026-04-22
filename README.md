@@ -97,7 +97,11 @@ If you use this harness, please cite the accompanying paper:
 Srinivasan, V. (2026). Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents.
 ```
 
-(arXiv identifier to be added once posted.)
+	arXiv:2604.19457 [cs.AI]
+	(or arXiv:2604.19457v1 [cs.AI] for this version)
+ 
+https://doi.org/10.48550/arXiv.2604.19457
+
 
 ## License
 
